@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @HenjiShip
+
+
  I'm a full stack engineer with a bachelors in computer science. 
  For me, organization is key to creating a well oiled machine of a website and I love creating clean reusable components. 
  It's just really satisfying. After graduating, I worked on further improving my front end skills with the backend technologies using NodeJS to create REST APIs and MongoDB for data basing. 
